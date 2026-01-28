@@ -1,9 +1,10 @@
 body{
-    
+    background-color: #ebd59b ;
 }
 
 p{
-    
+    text-align: justify;
+    margin-left: 20px;
 }
 
 nav{
@@ -21,4 +22,26 @@ p.card-text{
 
 #alap{
     background-color: white;
+}
+h1{
+    color: #0a0550;
+    font-weight: bold;
+}
+h2{
+    color: #0a0550;
+    font-weight: bold;
+}
+a{
+    color:#8b0000;
+    text-decoration: none;
+}
+a:visited{
+    color:#8b0000
+}
+
+a:hover{
+    color: #8b0000;
+}
+a:active {
+  color: #8b0000;
 }
